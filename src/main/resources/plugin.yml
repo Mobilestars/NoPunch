@@ -1,0 +1,9 @@
+name: NoPunch
+version: '1.0.0'
+main: de.scholle.noPunch.NoPunch
+api-version: '1.18'
+prefix: NoPunch
+load: STARTUP
+authors: [ Mobilestars ]
+description: Blocks the Punch enchantment on bows.
+website: https://modrinth.com/project/nopunch

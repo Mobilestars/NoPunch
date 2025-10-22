@@ -1,0 +1,3 @@
+# Configuration for NoPunch
+# If true, the Punch enchantment is allowed.
+allow-punch: false
